@@ -4,7 +4,6 @@ Un computador (también llamado ordenador o computadora) es una máquina electr�
 
 **Referencia bibliográfica:**[https://concepto.de/computadora/](https://concepto.de/computadora/)
 
-
 ## 2. Arquitecturas de un computador
 La arquitectura de un computador se refiere a la estructura interna y la forma en que los diferentes componentes de un computador se organizan y comunican entre sí. Define cómo se manejan las instrucciones, los datos y el control dentro de la máquina. Existen diferentes modelos de arquitectura que influyen en el rendimiento y la eficiencia del sistema.
 
@@ -12,10 +11,12 @@ La arquitectura de un computador se refiere a la estructura interna y la forma e
 CISC (Complex Instruction Set Computer) es una arquitectura de computador que utiliza un conjunto de instrucciones complejas que pueden realizar varias operaciones en un solo ciclo de instrucción. La principal ventaja de CISC es que reduce el número de instrucciones necesarias para realizar una tarea, pero a costa de mayor complejidad y ciclos de reloj más largos.
 
 **Ejemplo**: Los procesadores Intel x86 son ejemplos típicos de CISC.
-2.2. Arquitectura RISC
+### 2.2. Arquitectura RISC
 RISC (Reduced Instruction Set Computer) es una arquitectura que utiliza un conjunto reducido de instrucciones más simples, las cuales se ejecutan en un solo ciclo de reloj. El enfoque RISC busca eficiencia y velocidad mediante la simplificación de las instrucciones, lo que permite un mayor rendimiento en operaciones repetitivas.
-
 **Ejemplo**: Los procesadores ARM son ejemplos comunes de RISC.
+
+**referencia blibloografica**[https://global.tiffin.edu/blog/que-es-arquitectura-de-computadoras](https://global.tiffin.edu/blog/que-es-arquitectura-de-computadoras)
+
 ## 3. ¿Qué es el hardware?
 El hardware son los componentes físicos que conforman un sistema de cómputo, es decir, los dispositivos y las partes tangibles que permiten el funcionamiento del computador. A continuación, se describen algunos de los elementos más importantes:
 
@@ -43,6 +44,8 @@ Los dispositivos de entrada permiten al usuario interactuar con la computadora, 
 ### 3.5. Bases de datos
 Los buses de datos son sistemas de comunicación que permiten la transferencia de datos entre los diferentes componentes del computador, como la CPU, la memoria y los dispositivos de entrada/salida.
 
+**Rerentes Bibliograficos** [https://concepto.de/hardware/](https://concepto.de/hardware/)
+
 ## 4. ¿Qué es el software?
 El software es el conjunto de instrucciones y programas que permiten que el hardware realice tareas específicas. Existen diferentes tipos de software:
 
@@ -55,7 +58,10 @@ El software de aplicación son programas diseñados para realizar tareas especí
 ### 4.3. Software de desarrollo
 El software de desarrollo incluye herramientas que permiten a los programadores crear, probar y mantener otros programas. Ejemplos de software de desarrollo son los lenguajes de programación, compiladores y entornos de desarrollo integrado (IDE).
 
+**Rerentes Bibliograficos** [https://concepto.de/software/](https://concepto.de/software/)
+
 ## 5. Funcionamiento del computador
+
 ### 5.1. ¿Qué procesos se llevan a cabo cuando se enciende una computadora?
 Cuando se enciende una computadora, se inicia un proceso llamado POST (Power-On Self Test), que verifica el hardware del sistema. Luego, se carga el bootloader desde la memoria ROM o el disco duro, que localiza e inicia el sistema operativo.
 
@@ -74,3 +80,10 @@ Las unidades básicas de medida de datos en un computador son:
 - Megabyte (MB): 1,024 KB.
 - Gigabyte (GB): 1,024 MB.
 - Terabyte (TB): 1,024 GB.
+
+**Referentes Bibliograficos** [https://www.icarito.cl/2009/12/70-4041-9-como-funcionan-los-computadores.shtml/#](https://www.icarito.cl/2009/12/70-4041-9-como-funcionan-los-computadores.shtml/#)
+[https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/](https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/)
+
+
+
+ 
