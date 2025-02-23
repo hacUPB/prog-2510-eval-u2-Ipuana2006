@@ -82,7 +82,7 @@ Las unidades básicas de medida de datos en un computador son:
 - Terabyte (TB): 1,024 GB.
 
 **Referentes Bibliograficos** [https://www.icarito.cl/2009/12/70-4041-9-como-funcionan-los-computadores.shtml/#](https://www.icarito.cl/2009/12/70-4041-9-como-funcionan-los-computadores.shtml/#)
-[https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/](https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/)
+-[https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/](https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/)
 
 
 
