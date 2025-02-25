@@ -85,6 +85,3 @@ Las unidades básicas de medida de datos en un computador son:
 
 -[https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/](https://ibertronica.es/blog/actualidad/unidades-de-medida-en-informatica/)
 
-
-
- 
