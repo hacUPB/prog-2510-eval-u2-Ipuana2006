@@ -9,7 +9,7 @@ Un computador (también llamado ordenador o computadora) es una máquina electr�
 ## 2. Arquitecturas de un computador
 La arquitectura de un computador se refiere a la estructura interna y la forma en que los diferentes componentes de un computador se organizan y comunican entre sí. Define cómo se manejan las instrucciones, los datos y el control dentro de la máquina. Existen diferentes modelos de arquitectura que influyen en el rendimiento y la eficiencia del sistema.
 
-![alt text](<Imagenes/arquitectura de un computador.jpg>)
+![alt text](./Imagenes/arquitectura_del_computador.jpg)
 
 ### 2.1. Arquitectura CISC
 CISC (Complex Instruction Set Computer) es una arquitectura de computador que utiliza un conjunto de instrucciones complejas que pueden realizar varias operaciones en un solo ciclo de instrucción. La principal ventaja de CISC es que reduce el número de instrucciones necesarias para realizar una tarea, pero a costa de mayor complejidad y ciclos de reloj más largos.
