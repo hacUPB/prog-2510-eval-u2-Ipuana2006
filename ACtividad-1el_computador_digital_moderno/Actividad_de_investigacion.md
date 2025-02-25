@@ -2,10 +2,14 @@
 
 Un computador (también llamado ordenador o computadora) es una máquina electrónica capaz de procesar, almacenar y ejecutar instrucciones de manera automática. Se compone de hardware y software, y su función principal es recibir entradas, procesarlas, y generar salidas. Los computadores se utilizan en una amplia variedad de aplicaciones, desde el cálculo y la resolución de problemas hasta el control de dispositivos y la gestión de información.
 
+![alt text](Imagenes/computador.jpg)
+
 **Referencia bibliográfica:**[https://concepto.de/computadora/](https://concepto.de/computadora/)
 
 ## 2. Arquitecturas de un computador
 La arquitectura de un computador se refiere a la estructura interna y la forma en que los diferentes componentes de un computador se organizan y comunican entre sí. Define cómo se manejan las instrucciones, los datos y el control dentro de la máquina. Existen diferentes modelos de arquitectura que influyen en el rendimiento y la eficiencia del sistema.
+
+![alt text](<Imagenes/arquitectura de un computador.jpg>)
 
 ### 2.1. Arquitectura CISC
 CISC (Complex Instruction Set Computer) es una arquitectura de computador que utiliza un conjunto de instrucciones complejas que pueden realizar varias operaciones en un solo ciclo de instrucción. La principal ventaja de CISC es que reduce el número de instrucciones necesarias para realizar una tarea, pero a costa de mayor complejidad y ciclos de reloj más largos.
@@ -19,6 +23,8 @@ RISC (Reduced Instruction Set Computer) es una arquitectura que utiliza un conju
 
 ## 3. ¿Qué es el hardware?
 El hardware son los componentes físicos que conforman un sistema de cómputo, es decir, los dispositivos y las partes tangibles que permiten el funcionamiento del computador. A continuación, se describen algunos de los elementos más importantes:
+
+![alt text](Imagenes/hardwaree.jpg)
 
 ### 3.1. CPU (Unidad Central de Procesamiento)
 La CPU es el componente principal del computador que ejecuta las instrucciones de los programas. Está compuesta por varias partes importantes:
@@ -49,6 +55,8 @@ Los buses de datos son sistemas de comunicación que permiten la transferencia d
 ## 4. ¿Qué es el software?
 El software es el conjunto de instrucciones y programas que permiten que el hardware realice tareas específicas. Existen diferentes tipos de software:
 
+![alt text](Imagenes/software.png)
+
 ### 4.1. Software de sistema
 El software de sistema gestiona los recursos del hardware y proporciona la plataforma básica para ejecutar otros programas. Un ejemplo común es el sistema operativo.
 
@@ -61,6 +69,8 @@ El software de desarrollo incluye herramientas que permiten a los programadores 
 **Rerentes Bibliograficos** [https://concepto.de/software/](https://concepto.de/software/)
 
 ## 5. Funcionamiento del computador
+
+![alt text](<Imagenes/funcionamientos de la computadora.jpg>)
 
 ### 5.1. ¿Qué procesos se llevan a cabo cuando se enciende una computadora?
 Cuando se enciende una computadora, se inicia un proceso llamado POST (Power-On Self Test), que verifica el hardware del sistema. Luego, se carga el bootloader desde la memoria ROM o el disco duro, que localiza e inicia el sistema operativo.
