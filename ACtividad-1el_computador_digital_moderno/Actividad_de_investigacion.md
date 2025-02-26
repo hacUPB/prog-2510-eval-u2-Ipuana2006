@@ -70,7 +70,7 @@ El software de desarrollo incluye herramientas que permiten a los programadores 
 
 ## 5. Funcionamiento del computador
 
-![alt text](<Imagenes/funcionamientos de la computadora.jpg>)
+![alt text](Imagenes/funcionamientos_del_computadora.jpg)
 
 ### 5.1. ¿Qué procesos se llevan a cabo cuando se enciende una computadora?
 Cuando se enciende una computadora, se inicia un proceso llamado POST (Power-On Self Test), que verifica el hardware del sistema. Luego, se carga el bootloader desde la memoria ROM o el disco duro, que localiza e inicia el sistema operativo.
