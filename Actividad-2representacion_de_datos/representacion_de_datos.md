@@ -82,4 +82,21 @@ El trabajo de George Boole en el álgebra booleana es fundamental para la repres
 
 ---
 
+# Actividad#2
+
+### Convercion de binarios a decimales
+- 1010101010<sub>2</sub> = 682<sub>10</sub>
+- 11111<sub>2</sub> = 31<sub>10</sub>
+- 10000000<sub></sub> = 128<sub>10</sub>
+- 100100100<sub></sub> = 292<sub>10</sub>
+- 111000<sub></sub> = 56<sub>10</sub>
+
+## Ejercicio 2
+
+### Convercion de decimal a binario
+- 127<sub>10</sub> = 1111111<sub>2</sub>
+- 246<sub>10</sub> = 11110110<sub>2</sub>
+- 1025<zub>10</sub> = 10000000001<sub>2<sub>
+- 354<sub>10</sub> = 101100010<sub>2</sub>
+- 187<sub>10</sub> = 10111011<sub>2</sub>
 
