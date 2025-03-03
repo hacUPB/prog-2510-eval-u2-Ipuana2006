@@ -36,3 +36,89 @@ Inicio
     Escribir "Promedio Mensual: ", promedio_mensual
 Fin
 
+## Ejerccicos 
+
+### 1.
+
+# Algoritmo para calcular el costo de lápices
+
+## Pseudocódigo
+```plaintext
+Inicio
+    Escribir "Ingrese la cantidad de lápices:"
+    Leer cantidad
+    
+    Si cantidad >= 1000 Entonces
+        precio <- 85
+    Sino
+        precio <- 90
+    FinSi
+    
+    total <- cantidad * precio
+    
+    Escribir "El costo total a pagar es: ", total
+Fin
+```
+## Diagrama de flujo
+![alt text](lapiz_diagrama.png)
+
+### 2.
+
+# Algoritmo para calcular el precio final con descuento en un almacén de ropa
+
+
+## Pseudocódigo
+```plaintext
+Inicio
+    Escribir "Ingrese el monto total de la compra:"
+    Leer monto_compra
+    
+    Si monto_compra > 250000 Entonces
+        descuento <- monto_compra * 0.15
+    Sino
+        descuento <- monto_compra * 0.08
+    FinSi
+    
+    precio_final <- monto_compra - descuento
+    
+    Escribir "El descuento aplicado es: ", descuento
+    Escribir "El precio final a pagar es: ", precio_final
+Fin
+```
+
+## Diagrama de flujo
+![alt text](<Diagrama_de _flujo.png>)
+
+### 3.
+
+# Algoritmo para calcular el costo del viaje de estudios
+
+## Pseudocódigo
+```plaintext
+Inicio
+    Escribir "Ingrese la cantidad de alumnos que asistirán al viaje:"
+    Leer cantidad_alumnos
+    
+    Si cantidad_alumnos >= 100 Entonces
+        costo_por_alumno <- 65
+        total_pagar <- cantidad_alumnos * costo_por_alumno
+    Sino Si cantidad_alumnos >= 50 Entonces
+        costo_por_alumno <- 70
+        total_pagar <- cantidad_alumnos * costo_por_alumno
+    Sino Si cantidad_alumnos >= 30 Entonces
+        costo_por_alumno <- 95
+        total_pagar <- cantidad_alumnos * costo_por_alumno
+    Sino
+        total_pagar <- 4000
+        costo_por_alumno <- total_pagar / cantidad_alumnos
+    FinSi
+    
+    Escribir "El costo por alumno es: ", costo_por_alumno
+    Escribir "El total a pagar a la compañía de viajes es: ", total_pagar
+Fin
+```
+
+## Diagrama de flujo
+![alt text](diagrama_de_flujo.png)
+
+
