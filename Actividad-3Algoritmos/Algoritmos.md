@@ -16,10 +16,8 @@ El uso adecuado de estos símbolos permite representar algoritmos  de forma orga
 
 [Simbolos para representar operaciones de algoritmos con diagrama de flujos](https://www.smartdraw.com/flowchart/simbolos-de-diagramas-de-flujo.htm?srsltid=AfmBOoqEA_Eipu1dG0-jsND9IbKjTmPbiJMqCZgcTHpm_a5ThPcDF5Ae)
 
-## Ejercicio 2.
-**Analisis del problema**
-
-### Pseudocódigo para calcular ingreso total semestral y promedio mensual
+## Ejercicio 2. 
+### Pseudocódigo para calcular ingreso total semestral y promedio mensual.
 
 Inicio
 
@@ -36,13 +34,13 @@ Inicio
     Escribir "Promedio Mensual: ", promedio_mensual
 Fin
 
-## Ejerccicos 
+## Ejerccicos.
 
 ### 1.
 
-# Algoritmo para calcular el costo de lápices
+# Algoritmo para calcular el costo de lápices.
 
-## Pseudocódigo
+## Pseudocódigo.
 ```plaintext
 Inicio
     Escribir "Ingrese la cantidad de lápices:"
@@ -59,16 +57,16 @@ Inicio
     Escribir "El costo total a pagar es: ", total
 Fin
 ```
-## Diagrama de flujo
+## Diagrama de flujo.
 
 ![alt text](imagenes/lapiz_diagrama.png)
 
 ### 2.
 
-# Algoritmo para calcular el precio final con descuento en un almacén de ropa
+# Algoritmo para calcular el precio final con descuento en un almacén de ropa.
 
 
-## Pseudocódigo
+## Pseudocódigo.
 ```plaintext
 Inicio
     Escribir "Ingrese el monto total de la compra:"
@@ -87,15 +85,15 @@ Inicio
 Fin
 ```
 
-## Diagrama de flujo
+## Diagrama de flujo.
 
 ![alt text](<imagenes/Diagrama_de _flujo.png>)
 
 ### 3.
 
-# Algoritmo para calcular el costo del viaje de estudios
+# Algoritmo para calcular el costo del viaje de estudios.
 
-## Pseudocódigo
+## Pseudocódigo.
 ```plaintext
 Inicio
     Escribir "Ingrese la cantidad de alumnos que asistirán al viaje:"
@@ -120,8 +118,6 @@ Inicio
 Fin
 ```
 
-## Diagrama de flujo
+## Diagrama de flujo.
 
 ![alt text](imagenes/diagrama_de_flujo.png)
-
-
