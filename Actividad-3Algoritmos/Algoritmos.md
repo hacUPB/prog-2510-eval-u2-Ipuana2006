@@ -60,7 +60,8 @@ Inicio
 Fin
 ```
 ## Diagrama de flujo
-![alt text](lapiz_diagrama.png)
+
+![alt text](imagenes/lapiz_diagrama.png)
 
 ### 2.
 
@@ -87,7 +88,8 @@ Fin
 ```
 
 ## Diagrama de flujo
-![alt text](<Diagrama_de _flujo.png>)
+
+![alt text](<imagenes/Diagrama_de _flujo.png>)
 
 ### 3.
 
@@ -119,6 +121,7 @@ Fin
 ```
 
 ## Diagrama de flujo
-![alt text](diagrama_de_flujo.png)
+
+![alt text](imagenes/diagrama_de_flujo.png)
 
 
