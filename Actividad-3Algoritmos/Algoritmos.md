@@ -198,7 +198,7 @@ Fin
 
 Las estructuras de control son fundamentales en la programación, ya que permiten definir el flujo de ejecución de un algoritmo. Sirven para tomar decisiones, repetir acciones o seleccionar entre diferentes caminos según condiciones específicas. Estas estructuras incluyen condicionales (if-else), bucles (for, while) y estructuras de selección (switch).
 
-### Ejemplo de la vida diaria
+### Ejemplo de la vida cotidiana
 **Decidir qué ropa usar según el clima**
 ```Inicio
 pseudocodigo
