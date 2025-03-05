@@ -200,22 +200,24 @@ Las estructuras de control son fundamentales en la programación, ya que permite
 
 ### Ejemplo de la vida diaria
 **Decidir qué ropa usar según el clima**
-```pseudocodigo
+```Inicio
+pseudocodigo
 Si (la temperatura es menor a 15°C) entonces
     Usar abrigo y bufanda
 Si no
     Usar ropa ligera
-Fin Si
+Fin.
 ```
 **Explicación:** Aquí, la decisión se basa en una condición (temperatura). Si hace frío, se usa ropa abrigadora; de lo contrario, se elige ropa más ligera.
 
 ### Ejemplo con cálculos matemáticos
 **Determinar si un estudiante aprueba una materia**
-```pseudocodigo
+```Inicio
+pseudocodigo
 Si (promedio >= 60) entonces
     Mostrar "Aprobado"
 Si no
     Mostrar "Reprobado"
-Fin Si
+Fin.
 ```
 **Explicación:** Se usa una estructura condicional para evaluar el promedio del estudiante. Si es 60 o más, aprueba; en caso contrario, reprueba.
