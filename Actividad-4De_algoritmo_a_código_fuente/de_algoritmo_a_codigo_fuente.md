@@ -79,4 +79,4 @@ def calcular_promedio(calificaciones):
 # Ejemplo de uso
 calificaciones = [85, 90, 78, 92, 88]
 resultado = calcular_promedio(calificaciones)
-print("El promedio es:", resultado)
+print("El promedio es:", resultado).
